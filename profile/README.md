@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://getgithub.life">
+  <a href="https://gitlab.life">
     <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="200" alt="Get DRAPLINE for Windows">
   </a>
 </p>
